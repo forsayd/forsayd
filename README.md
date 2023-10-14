@@ -34,5 +34,10 @@
   </div>
 
   ### :trophy: Достижения:
+
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=forsayd" alt=""/>
+  </div>
+
   
   
