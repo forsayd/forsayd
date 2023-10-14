@@ -8,4 +8,6 @@
   </a>
 </div>
 
-
+<div id="view prof" align="center" >
+  <img src="https://komarev.com/ghpvc/?username=forsayd&style=flat-square&color=blue" alt=""/>
+</div>
