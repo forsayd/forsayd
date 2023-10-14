@@ -39,5 +39,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=forsayd" alt=""/>
   </div>
 
+  ### :keyboard: Наиболее используемые языки:
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forsayd" alt=""/>
+  </div>
   
   
