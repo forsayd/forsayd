@@ -23,3 +23,10 @@
 - :shipit: Я апнул лема в кс
 
 - :shipit: факты факты
+
+### :electron: Языки и инструменты: 
+  <div>
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/>
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/>
+    <img src= "" width="40px" height="40px"/>
+  </div>
